@@ -21,23 +21,19 @@ git clone https://github.com/joaograndotto/PIBITI.git
 <table>
   <tr>
     <td align="center">
-    <b>Desenvolvedor</b> 
-    <br/>
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/63874169?v=4" width="100px;" alt="Foto Desenvolver"/><br>
-        <sub>
-          <b>João Grandotto</b>
-        </sub>
+      <b>Desenvolvedor</b>
+      <br/>
+      <a href="https://github.com/joaograndotto">
+        <img src="https://avatars.githubusercontent.com/u/63874169?v=4" width="100px;" alt="Foto Desenvolvedor"/><br>
+        <sub><b>João Grandotto</b></sub>
       </a>
     </td>
     <td align="center">
-   <b>Orientador</b>
-   <br/>
-      <a href="#">
+      <b>Orientador</b>
+      <br/>
+      <a href="https://github.com/waldeyr">
         <img src="https://avatars.githubusercontent.com/u/151361?v=4" width="100px;" alt="Foto Orientador"/><br>
-        <sub>
-          <b>Waldeyr Mendes</b>
-        </sub>
+        <sub><b>Waldeyr Mendes</b></sub>
       </a>
     </td>
   </tr>
